@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Revista Multidisciplinaria de Ciencias</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Revista Multidisciplinaria de Ciencias</h1>
+      <p class="subtitulo">DOI: pendiente | e-ISSN: pendiente</p>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="#">Inicio</a></li>
+        <li><a href="#">Archivos</a></li>
+        <li><a href="#">Avisos</a></li>
+        <li><a href="#">Acerca de</a></li>
+        <li><a href="#">Equipo editorial</a></li>
+        <li><a href="#">Directrices</a></li>
+        <li><a href="#">Contacto</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section>
+      <h2>Sobre la revista</h2>
+      <p>
+        La <strong>Revista Multidisciplinaria de Ciencias (RMC)</strong> es una publicación científica de acceso abierto editada con el propósito de difundir investigaciones y estudios originales en diversas áreas del conocimiento, incluyendo ciencias naturales, ingeniería, salud, educación y medio ambiente.
+      </p>
+      <p>
+        Su objetivo es promover la divulgación del conocimiento producido por la comunidad académica nacional e internacional, contribuyendo al desarrollo sostenible y a la solución de problemas científicos y sociales desde una perspectiva interdisciplinaria.
+      </p>
+    </section>
+
+    <section>
+      <h2>Convocatoria permanente</h2>
+      <p>
+        La RMC recibe artículos científicos en cualquier momento del año. Se aceptan trabajos originales e inéditos de investigación, revisión, ensayos científicos y comunicaciones breves en idioma español o inglés.
+      </p>
+    </section>
+
+    <section>
+      <h2>Número actual</h2>
+      <article class="numero">
+        <img src="https://via.placeholder.com/200x280?text=Portada+Revista" alt="Portada revista">
+        <div>
+          <h3>Vol. 1 Núm. 1 (2025)</h3>
+          <p><strong>Publicado:</strong> 2025-07-20</p>
+          <p>Revista Multidisciplinaria de Ciencias</p>
+          <a class="boton" href="#">Ver artículos</a>
+        </div>
+      </article>
+    </section>
+  </main>
+
+  <aside class="sidebar">
+    <h3>Indexación</h3>
+    <ul>
+      <li>Latindex</li>
+      <li>Google Scholar</li>
+      <li>Crossref</li>
+      <li>ROAD</li>
+      <li>Redib</li>
+    </ul>
+    <h3>Formatos</h3>
+    <ul>
+      <li><a href="#">Plantilla de envío</a></li>
+      <li><a href="#">Manual de autores</a></li>
+    </ul>
+  </aside>
+
+  <footer>
+    <div class="container">
+      <p>© 2025 Revista Multidisciplinaria de Ciencias</p>
+      <p>Publicación académica de acceso abierto</p>
+    </div>
+  </footer>
+</body>
+</html>
